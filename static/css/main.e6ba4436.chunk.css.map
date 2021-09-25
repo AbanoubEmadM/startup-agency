@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACE,qBACF,CACA,KACE,0CACF","file":"main.e6ba4436.chunk.css","sourcesContent":["* {\n  box-sizing: border-box;\n}\nbody {\n  font-family: \"Poppins\", sans-serif !important;\n}\n"]}

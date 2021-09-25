@@ -1,0 +1,236 @@
+{
+    "features":[
+        {
+            "id":1,
+            "img":"../../images/energy.svg",
+            "title":"Fast Performance",
+            "desc":"Get your blood tests delivered at home collect a sample from the your blood tests."
+        },
+        {
+            "id":2,
+            "img":"../../images/deal.svg",
+            "title":"Partnership deal",
+            "desc":"Get your blood tests delivered at home collect a sample from the your blood tests."
+        },
+        {
+            "id":3,
+            "img":"../../images/pro.svg",
+            "title":"Pro Subscription",
+            "desc":"Get your blood tests delivered at home collect a sample from the your blood tests."
+        },
+        {
+            "id":4,
+            "img":"../../images/comment.svg",
+            "title":"Customer Support",
+            "desc":"Get your blood tests delivered at home collect a sample from the your blood tests."
+        }
+    ],
+    "services":[
+        {
+            "id":1,
+            "img":"../../images/energy.svg",
+            "title":"Fast Performance",
+            "desc":"Get your blood tests delivered at home collect a sample from the your blood tests."
+        },
+        {
+            "id":2,
+            "img":"../../images/deal.svg",
+            "title":"Partnership deal",
+            "desc":"Get your blood tests delivered at home collect a sample from the your blood tests."
+        }
+    ],
+    "Qfeatures":[
+        {
+            "id":1,
+            "img":"../../images/energy.svg",
+            "title":"Fast Performance",
+            "desc":"Let’s just get this out of the way - there will always be a kit version of Edu flow. Paid subscriptions allow us to continue helping learners around the world."
+        },
+        {
+            "id":2,
+            "img":"../../images/deal.svg",
+            "title":"Fast Performance",
+            "desc":"Let’s just get this out of the way - there will always be a kit version of Edu flow. Paid subscriptions allow us to continue helping learners around the world."
+        },
+        {
+            "id":3,
+            "img":"../../images/pro.svg",
+            "title":"Fast Performance",
+            "desc":"Let’s just get this out of the way - there will always be a kit version of Edu flow. Paid subscriptions allow us to continue helping learners around the world."
+        },
+        {
+            "id":4,
+            "img":"../../images/comment.svg",
+            "title":"Fast Performance",
+            "desc":"Let’s just get this out of the way - there will always be a kit version of Edu flow. Paid subscriptions allow us to continue helping learners around the world."
+        }
+    ],
+    "functions":[
+        {
+            "id":1,
+            "title":"Set disbursement instructions",
+            "number":"01",
+            "desc":"Get your blood test deliverd at home collect a sample from your blood test"
+        },
+        {
+            "id":2,
+            "title":"Assembly retrieves funds from your account",
+            "number":"02",
+            "desc":"Get your blood test deliverd at home collect a sample from your blood test"
+        },
+        {
+            "id":3,
+            "title":"Assembly initiates disbursement",
+            "number":"03",
+            "desc":"Get your blood test deliverd at home collect a sample from your blood test"
+        },
+        {
+            "id":4,
+            "title":"Customer receives funds payment",
+            "number":"04",
+            "desc":"Get your blood test deliverd at home collect a sample from your blood test"
+        }
+    ],
+    "pricing":[
+        {
+            "id":1,
+            "title":"Free Plan",
+            "desc":"For Small teams or office",
+            "item1":"Drag & Drop Builder",
+            "item2":"1,000's of Templates",
+            "item3":"Blog Support Tools",
+            "item4":"eCommerce Store",
+            "price":"$0",
+            "btn":"Start free trail"
+        },
+        {
+            "id":2,
+            "title":"Business king",
+            "desc":"For Enterprise business",
+            "item1":"Drag & Drop Builder",
+            "item2":"1,000's of Templates",
+            "item3":"Blog Support Tools",
+            "item4":"eCommerce Store",
+            "price":"$15",
+            "btn":"Create account"
+        },
+        {
+            "id":3,
+            "title":"Pro Master",
+            "desc":"For pro level developers",
+            "item1":"Drag & Drop Builder",
+            "item2":"1,000's of Templates",
+            "item3":"Blog Support Tools",
+            "item4":"eCommerce Store",
+            "price":"$24",
+            "btn":"Create account"
+        }
+    ],
+    "team":[
+        {
+            "id":1,
+            "name":"Saimon Harmer",
+            "job":"CEO and Founder",
+            "img":"../../images/member-1.png"
+        },
+        {
+            "id":2,
+            "name":"Aaron Nunez",
+            "job":"Founder",
+            "img":"../../images/member-2.png"
+        },
+        {
+            "id":3,
+            "name":"Aaron Nunez",
+            "job":"Web Designer",
+            "img":"../../images/member-3.png"
+        },
+        {
+            "id":4,
+            "name":"Lina Jutila",
+            "job":"Web Developer",
+            "img":"../../images/member-4.png"
+        },
+        {
+            "id":5,
+            "name":"Saimon Harmer",
+            "job":"CEO and Founder",
+            "img":"../../images/member-5.png"
+        },
+        {
+            "id":6,
+            "name":"Aaron Nunez",
+            "job":"Web Designer",
+            "img":"../../images/member-6.png"
+        }
+    ],
+    "clients":[
+        {
+            "id":1,
+            "title":"Modern look & trending design",
+            "desc":"Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.",
+            "img":"../../images/client-1.png",
+            "name":"Denny Hilguton",
+            "email":"@denny.hil"
+        },
+        {
+            "id":2,
+            "title":"Modern look & trending design",
+            "desc":"Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.",
+            "img":"../../images/client-2.png",
+            "name":"Denny Hilguton",
+            "email":"@denny.hil"
+        },
+        {
+            "id":3,
+            "title":"Modern look & trending design",
+            "desc":"Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.",
+            "img":"../../images/client-3.png",
+            "name":"Denny Hilguton",
+            "email":"@denny.hil"
+        }
+    ],
+    "blog":[
+        {
+            "id":1,
+            "img":"../../images/blog-1.jpg",
+            "title":"Product marketing:Monopoly Market",
+            "name":"Cali Cartel",
+            "date":"Oct 20,2020"
+        },
+        {
+            "id":2,
+            "img":"../../images/blog-2.jpg",
+            "title":"Product marketing:Monopoly Market",
+            "name":"James Carter",
+            "date":"Oct 20,2020"
+        },
+        {
+            "id":3,
+            "img":"../../images/blog-3.jpg",
+            "title":"Product marketing:Monopoly Market",
+            "name":"Aston Aagar",
+            "date":"Oct 20,2020"
+        }
+    ],
+    "products":[
+        {
+            "id":1,
+            "title":"Join the Community",
+            "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor.",
+            "img":"../../images/product-1.svg"
+        },
+        {
+            "id":2,
+            "title":"Chat Communication",
+            "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor.",
+            "img":"../../images/product-2.svg"
+        },
+        {
+            "id":3,
+            "title":"Github Access",
+            "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor.",
+            "img":"../../images/product-3.svg"
+        }
+    ]
+}
